@@ -1,0 +1,2 @@
+I had limited experience using Git and GitHub prior to this course.
+I have once used basic command-line tools and RStudio for projects.
